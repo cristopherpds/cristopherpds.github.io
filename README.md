@@ -26,3 +26,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:josuepaiva7@gmail.com)
 ![Snake animation](https://github.com/cristopherpds/cristopherpaiva/blob/output/github-contribution-grid-snake-dark.svg)
 
+<div style="text-align: center">
+    <img src="https://github.com/cristopherpds/cristopherpds/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div>
